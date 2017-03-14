@@ -1,0 +1,37 @@
+{
+  "name": "babel-plugin-transform-pug-html",
+  "version": "0.1.0",
+  "description": "Transforms \"pug\" tagged template literals into html strings",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumconstantin/babel-plugin-transform-pug-html.git"
+  },
+  "keywords": [
+    "babel",
+    "pug",
+    "html",
+    "template-literal"
+  ],
+  "author": "Constantin Dumitrescu <dum.constantin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dumconstantin/babel-plugin-transform-pug-html/issues"
+  },
+  "homepage": "https://github.com/dumconstantin/babel-plugin-transform-pug-html#readme",
+  "devDependencies": {
+    "html-minifier": "^3.4.1",
+    "jest": "^19.0.2"
+  },
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "pug": "^2.0.0-beta11"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverage": true
+  }
+}
