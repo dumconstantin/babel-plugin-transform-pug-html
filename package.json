@@ -24,7 +24,7 @@
   "homepage": "https://github.com/dumconstantin/babel-plugin-transform-pug-html#readme",
   "devDependencies": {
     "html-minifier": "^3.4.1",
-    "jest": "^19.0.2"
+    "jest": "^23.6.0"
   },
   "dependencies": {
     "@babel/core": "^7.2.0",
