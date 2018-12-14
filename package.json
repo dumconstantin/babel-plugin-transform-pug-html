@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-pug-html",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Transforms \"pug\" tagged template literals into html strings",
   "main": "src/index.js",
   "scripts": {
