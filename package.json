@@ -27,7 +27,7 @@
     "jest": "^19.0.2"
   },
   "dependencies": {
-    "babel-core": "^6.24.0",
+    "@babel/core": "^7.2.0",
     "pug": "^2.0.0-beta11"
   },
   "jest": {
